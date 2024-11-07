@@ -10,7 +10,7 @@ This project is an Arduino-based MIDI controller that uses analog and digital in
 ## Software Requirements
 - [MIDI Library for Arduino](https://github.com/FortySevenEffects/arduino_midi_library)
 
-  Optional (If you want to use your pc as midi player)
+If you want to use your pc as midi player (Optional software)
 - [Hairless MIDI to Serial Bridge](https://projectgus.github.io/hairless-midiserial/)
 - [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) (for creating virtual MIDI ports)
 - ML Drums, or another drum plugins that support midi controller input
